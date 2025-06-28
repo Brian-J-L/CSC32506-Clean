@@ -1,0 +1,15 @@
+.buttons {
+    -fx-background-color:#79DC05;
+    -fx-color:#ffffff;
+}
+
+.bar {
+    -fx-background-color: grey;
+}
+.pane1 {
+    -fx-background-color: #AA7733;
+    -fx-text-fill: #000000;
+    -fx-border-color: #cccccc;
+    -fx-font-size: 14px;
+    -fx-background-radius: 10;
+}
